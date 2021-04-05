@@ -1,4 +1,4 @@
-FROM ubuntu:cosmic
+FROM ubuntu:groovy-20210325
 
 ARG DAPPER_HOST_ARCH=amd64
 ARG http_proxy
