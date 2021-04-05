@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:cosmic
 # FROM arm=arm64/ubuntu:18.04
 
 ARG DAPPER_HOST_ARCH=amd64
