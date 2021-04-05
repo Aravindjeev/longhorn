@@ -1,4 +1,4 @@
-FROM ubuntu:cosmic
+FROM ubuntu:groovy-20210325
 
 ARG ARCH=amd64
 
