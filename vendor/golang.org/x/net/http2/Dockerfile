@@ -6,7 +6,7 @@
 # Go tests use this curl binary for integration tests.
 #
 
-FROM ubuntu:groovy-20210325
+FROM ubuntu:20.10
 
 RUN apt-get update && \
     apt-get upgrade -y && \
