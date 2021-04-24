@@ -1,4 +1,4 @@
-FROM ubuntu:groovy-20210325
+FROM ubuntu:20.10
 # FROM arm=arm64/ubuntu:18.04
 
 ARG DAPPER_HOST_ARCH=amd64
